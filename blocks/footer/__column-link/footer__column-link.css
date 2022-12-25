@@ -7,9 +7,10 @@
   font-size: 18px;
   font-weight: normal;
   display: block;
-  transition: color .4s;
+  opacity: 1;
+  transition: opacity .5s;
 }
 
 .footer__column-link:hover {
-  color: #2f80ed;
+  opacity: .6;
 }
