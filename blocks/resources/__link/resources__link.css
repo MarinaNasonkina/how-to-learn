@@ -1,10 +1,9 @@
-.header__link {
+.resources__link {
   text-decoration: none;
-  color: var(--accent);
   opacity: 1;
   transition: opacity .5s;
 }
 
-.header__link:hover {
+.resources__link:hover {
   opacity: .7;
 }
