@@ -3,12 +3,5 @@
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
-  text-decoration: none;
   color: var(--accent);
-  opacity: 1;
-  transition: opacity .5s;
-}
-
-.khan__buy-link:hover {
-  opacity: .7;
 }
